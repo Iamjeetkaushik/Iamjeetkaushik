@@ -1,4 +1,5 @@
-![LinkedIn cover - 3](https://user-images.githubusercontent.com/78296225/134130025-88760212-998e-4928-9023-205f3023a0c5.png)
+![LinkedIn cover - 3 (3)](https://user-images.githubusercontent.com/78296225/134130122-afff2559-6d30-4596-8a73-25b849ae7cbc.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
