@@ -2,8 +2,8 @@
 
 ### Hi there, - Please Visit [Portfolio][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jeetkaushik.in/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JeetKaushik8055)
+[![Website](https://img.shields.io/website?label=Jeet Kaushik&style=for-the-badge&url=https%3A%2F%2Fjeetkaushik.in)](https://jeetkaushik.in/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Jeet Kaushik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JeetKaushik8055)
 
 ## I'm a Btech Sophmore, UI/UX Designer, Developer, and Electronics Enthusiast!!
 
