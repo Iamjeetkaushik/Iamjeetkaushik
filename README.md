@@ -1,9 +1,9 @@
 ![LinkedIn cover - 3 (3)](https://user-images.githubusercontent.com/78296225/134130122-afff2559-6d30-4596-8a73-25b849ae7cbc.png)
 
-### Hi there, - aka [codeSTACKr][website] 👋
+### Hi there, - Please Visit [Portfolio][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jeetkaushik.in/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JeetKaushik8055)
 
 ## I'm a Btech Sophmore, UI/UX Designer, Developer, and Electronics Enthusiast!!
 
