@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on an App Design
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and can solve 10 diffrent Rubix Cubes
 
 ### Connect with me:
