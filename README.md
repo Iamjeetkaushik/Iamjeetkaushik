@@ -18,7 +18,7 @@
 
 <br />
 
-[website]: https://jeetkaushik.in
+[website]: https://iamjeetkaushik.github.io/Portfolio-V2/
 [twitter]: https://twitter.com/JeetKaushik8055
 [instagram]: https://www.instagram.com/design_ocracy/
 [linkedin]: https://www.linkedin.com/in/jeet-kaushik-b8a843207/
